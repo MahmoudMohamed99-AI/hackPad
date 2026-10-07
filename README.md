@@ -85,3 +85,6 @@ GitHub: [@MahmoudMohamed99-AI](https://github.com/MahmoudMohamed99-AI)
 ---
 
 ⭐ Built from scratch with curiosity, electronics, and a lot of soldering.
+
+<img width="1186" height="802" alt="Screenshot 2026-10-06 193024" src="https://github.com/user-attachments/assets/6d31105c-7e1c-4dc0-879a-152d7e7a7b4c" />
+
