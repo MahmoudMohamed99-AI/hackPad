@@ -21,7 +21,7 @@
 | [Buttons](https://amzn.eu/d/05CbOt1H) | starting studing sessions | 1 | $0.59 | $0.59 | [Amazon](https://amzn.eu/d/05CbOt1H) |
 | [Bread Board](https://amzn.eu/d/0aHKEaQi) | connecting parts | 1 | $1.09 | $1.09 | [Amazon](https://amzn.eu/d/0aHKEaQi) |
 | **Parts subtotal** | — | — | — | **$22.16** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.16** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$27.16** | — |
 
-$7.84 left of the tier's funding.
+$2.84 left of the tier's funding.
